@@ -1,2 +1,2 @@
-# v2ss_sub
-V2ray node subscribes for myself, No dissemination!  
+# No dissemination!
+SS nodes subscribe, only for private using.
