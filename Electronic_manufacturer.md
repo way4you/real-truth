@@ -1,5 +1,5 @@
 
-# 国产元器件
+# Local Electronic Component Manufacturer
 
 ## MCU类
 
