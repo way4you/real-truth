@@ -75,6 +75,8 @@
 
 [Anpec 台湾茂达科技 - DC-DC/LDO/功率开关](http://www.anpec.com.tw/)
 
+[BATELAB 苏州贝克微 - DC-DC/LDO/电池管理/低压隔离稳压器](http://www.batelab.com/)
+
 [Bright Power 上海晶丰明源 - 电源IC/LED驱动IC/电机控制IC](http://www.bpsemi.com/cn/)
 
 [Cellwise 广东赛微 - 智能充电识别/锂电池保护/电量计/USB端口IC](http://www.cellwise-semi.com/)
@@ -94,6 +96,8 @@
 [ISmartWare 珠海智融科技 - 移动电源/快充/无线充](http://www.ismartware.com/)
 
 [Kinetic 台湾芯凯 - Type-c接口保护/背光驱动](http://www.kinet-ic.com/)
+
+[LOWPOWER 深圳微源半导体 - 电池管理/DC-DC/MOS](http://www.lowpowersemi.com/)
 
 [NatLinear 上海南麟 - DC-DC，LDO，MOS](http://www.natlinear.com/)
 
@@ -141,7 +145,7 @@
 
 [Runic 润石科技 - 运放/电子开关IC/电压基准/电源等](http://www.run-ic.com/)
 
-## 晶体管类
+## 晶体管/传感类
 
 [伯恩半导体 - 二三极管/肖特基/TVS/ESD](http://www.born-tw.com/)
 
@@ -149,15 +153,21 @@
 
 [中科四合 - 二三极管/肖特基/TVS/ESD](http://www.siptory.com/)
 
+[AGM-Semi 深圳芯控源 - 大功率MOS/IGBT](http://www.agm-mos.com/)
+
 [ANGSEMI 上海昂赛微 - HALL/磁传感器/LED闪光驱动](http://www.angsemi.net/)
 
 [Conntek 泉州昆泰芯微 - HALL/磁传感器](https://www.conntek.net/)
 
-[ISOCOM 安数光 - 光耦/光电开关](http://isocom.com/)
+[DTT 大唐微电子 - 安全加密芯片/指纹传感器/读卡器芯片](http://www.dmt.com.cn/)
+
+[JIEJIE 江苏捷捷微电 - 二三极管/可控硅](http://www.jjwdz.com/)
 
 [LRC 乐山无线电 - 二三极管/肖特基](http://www.lrc.cn/)
 
 [Salltech 上海萨瑞微 - 二三极管/肖特基/TVS/ESD/MOS](http://www.salltech.com/)
+
+[SDC 绍兴光大芯业 - 无刷电机控制器-SDC9316/HALL/磁传感器](http://www.sdc-semi.com/)
 
 [SMC 南京桑德斯 - 二三极管/肖特基/TVS/ESD](http://www.smc-diodes.com/)
 
