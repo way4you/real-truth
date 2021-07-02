@@ -103,6 +103,8 @@
 
 [Potens 台湾博盛 - MOS管](http://www.potens-semi.com/)
 
+[Runic 润石科技 - 运放/电子开关IC/电压基准/电源等](http://www.run-ic.com/)
+
 [SCT 北京芯洲科技 - DC-DC](http://www.silicontent.com/)
 
 [Silergy 矽力杰 - DC-DC/LDO/功率开关/ESD/电表IC/马达驱动/音频放大/光传感](https://www.silergy.com/)
@@ -142,8 +144,6 @@
 [龙迅半导体 - HDMI/DP/eDP/Mipi/LVDS/RGB/BT1120/BT656/Type-C等信号的扩展转接](http://www.lontiumsemi.com/)
 
 [瑞发科 - PCIE/SATA等转换/扩展产品](http://www.norelsys.com/)
-
-[Runic 润石科技 - 运放/电子开关IC/电压基准/电源等](http://www.run-ic.com/)
 
 ## 晶体管/传感类
 
