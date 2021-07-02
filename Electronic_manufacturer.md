@@ -45,13 +45,13 @@
 
 [IMSEMI 厦门意行半导体 - 24G雷达IC](http://www.imsemi.com/)
 
-[Maxscend 卓胜微 - 蓝牙Soc/射频](https://www.maxscend.com/)
+[Maxscend 江苏卓胜微 - 蓝牙Soc/射频](https://www.maxscend.com/)
 
 [MindMotion 上海灵动微 - MM32 MCU/SOC&amp;MCU定制](http://www.mindmotion.com.cn/)
 
 [NationalChip 杭州国芯 - 人工智能/语音MCU](http://www.nationalchip.com/)
 
-[Nations 国民技术 - MCU/安全加密芯片](https://www.nationstech.com/)
+[Nations 深圳国民技术 - MCU/安全加密芯片](https://www.nationstech.com/)
 
 [Nuvoton 台湾新唐科技 - MCU](https://www.nuvoton.com/)
 
@@ -67,7 +67,7 @@
 
 [WCH 南京沁恒 - MCU/蓝牙Soc/串口扩展、转换芯片](http://www.wch.cn/)
 
-[XTX 芯天下 - MCU/Flash存储类](http://www.xtxtech.com/)
+[XTX 深圳芯天下 - MCU/Flash存储类](http://www.xtxtech.com/)
 
 [Yspring 深圳汇春 - 触摸IC/台湾麦肯MCU/无线鼠标sensor/手势识别IC](http://www.yspringtech.com/)
 
@@ -81,7 +81,7 @@
 
 [Cellwise 广东赛微 - 智能充电识别/锂电池保护/电量计/USB端口IC](http://www.cellwise-semi.com/)
 
-[Chipown 芯朋微 - AC-DC](http://www.chipown.com.cn/)
+[Chipown 无锡芯朋微 - AC-DC](http://www.chipown.com.cn/)
 
 [Dioo 江苏帝奥微 - 电源/电源管理/运放/电子开关IC](https://www.dioo.com/)
 
@@ -97,17 +97,17 @@
 
 [Kinetic 台湾芯凯 - Type-c接口保护/背光驱动](http://www.kinet-ic.com/)
 
-[LOWPOWER 深圳微源半导体 - 电池管理/DC-DC/MOS](http://www.lowpowersemi.com/)
+[Lowpower 深圳微源半导体 - 电池管理/DC-DC/MOS](http://www.lowpowersemi.com/)
 
 [NatLinear 上海南麟 - DC-DC，LDO，MOS](http://www.natlinear.com/)
 
 [Potens 台湾博盛 - MOS管](http://www.potens-semi.com/)
 
-[Runic 润石科技 - 运放/电子开关IC/电压基准/电源等](http://www.run-ic.com/)
+[Runic 无锡润石科技 - 运放/电子开关IC/电压基准/电源等](http://www.run-ic.com/)
 
 [SCT 北京芯洲科技 - DC-DC](http://www.silicontent.com/)
 
-[Silergy 矽力杰 - DC-DC/LDO/功率开关/ESD/电表IC/马达驱动/音频放大/光传感](https://www.silergy.com/)
+[Silergy 杭州矽力杰 - DC-DC/LDO/功率开关/ESD/电表IC/马达驱动/音频放大/光传感](https://www.silergy.com/)
 
 [TMI 西安拓尔微 - 电源管理/DC-DC/LED驱动/马达驱动IC](http://www.toll-semi.com/)
 
@@ -121,29 +121,29 @@
 
 [航顺微  - EEPROM、 SPI Nor Flash、MCU](http://www.hsxp8888.com/)
 
-[辉芒微 - NFC产品、EEPROM、SPI Flash、MCP](http://www.fremontmicro.com/)
+[FMD 深圳辉芒微 - NFC产品、EEPROM、SPI Flash、MCP](http://www.fremontmicro.com/)
 
 ## 音频类
 
-[方泰 - 各类音频放大IC---AB类 D类 G类 F类](http://www.fangtek.com.cn/)
+[Everest 苏州顺芯半导体 - Audio Codec/ADC/DAC](http://www.everest-semi.com/)
 
-[敏芯微 - 硅麦产品](http://www.memsensing.com/)
+[Fangtek 广州方泰 - 各类音频放大IC---AB类 D类 G类 F类](http://www.fangtek.com.cn/)
 
-[纳芯威 - 各类音频放大IC---AB类 D类 G类 F类](http://www.nsiway.com.cn/)
+[MEMSensing 苏州敏芯微 - 硅麦产品](http://www.memsensing.com/)
 
-[顺芯半导体 - Audio Codec/ADC/DAC](http://www.everest-semi.com/)
+[NeoMEMS 无锡芯奥微 - 硅麦](http://www.neomems.com/)
 
-[GMEMS - 硅麦](http://www.gmems.com/)
+[NSJWAY 深圳纳芯威 - 各类音频放大IC---AB类 D类 G类 F类](http://www.nsiway.com.cn/)
 
-[NeoMEMS 芯奥微 - 硅麦](http://www.neomems.com/)
-
-[TSING MICRO 清微智能 - 语音芯片](http://www.tsingmicro.com/)
+[Tsing Micro 北京清微智能 - 语音芯片](http://www.tsingmicro.com/)
 
 ## 接口类
 
-[龙迅半导体 - HDMI/DP/eDP/Mipi/LVDS/RGB/BT1120/BT656/Type-C等信号的扩展转接](http://www.lontiumsemi.com/)
+[Lontium 合肥龙迅半导体 - HDMI/DP/eDP/Mipi/LVDS/RGB/BT1120/BT656/Type-C扩展转接](http://www.lontiumsemi.com/)
 
-[瑞发科 - PCIE/SATA等转换/扩展产品](http://www.norelsys.com/)
+[Norel 天津瑞发科 - 专业提供PCIE、SATA等转换、扩展产品](http://www.norelsys.com/)
+
+[Vinka 深圳永嘉微电 - LCD驱动/触摸IC/LED驱动/LCD液晶驱动芯片](https://www.szvinka.com/)
 
 ## 晶体管/传感类
 
@@ -160,6 +160,8 @@
 [Conntek 泉州昆泰芯微 - HALL/磁传感器](https://www.conntek.net/)
 
 [DTT 大唐微电子 - 安全加密芯片/指纹传感器/读卡器芯片](http://www.dmt.com.cn/)
+
+[JSMicro 深圳杰盛微 - MOS/二极管/整流桥/可控硅/电源管理/LED驱动/触摸IC](http://www.jsmsemi.com/)
 
 [JIEJIE 江苏捷捷微电 - 二三极管/可控硅](http://www.jjwdz.com/)
 
