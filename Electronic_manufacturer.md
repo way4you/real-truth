@@ -119,9 +119,9 @@
 
 ## 存储类
 
-[航顺微  - EEPROM、 SPI Nor Flash、MCU](http://www.hsxp8888.com/)
-
 [FMD 深圳辉芒微 - NFC产品、EEPROM、SPI Flash、MCP](http://www.fremontmicro.com/)
+
+[HSXP 航顺微  - EEPROM、 SPI Nor Flash、MCU](http://www.hsxp8888.com/)
 
 ## 音频类
 
@@ -147,15 +147,11 @@
 
 ## 晶体管/传感类
 
-[伯恩半导体 - 二三极管/肖特基/TVS/ESD](http://www.born-tw.com/)
-
-[强茂半导体 - 二三极管/肖特基/TVS/ESD/各类特规产品](http://www.panjit.com.tw/)
-
-[中科四合 - 二三极管/肖特基/TVS/ESD](http://www.siptory.com/)
-
 [AGM-Semi 深圳芯控源 - 大功率MOS/IGBT](http://www.agm-mos.com/)
 
 [ANGSEMI 上海昂赛微 - HALL/磁传感器/LED闪光驱动](http://www.angsemi.net/)
+
+[Born 深圳伯恩半导体  - 二三极管/肖特基/TVS/ESD](http://www.born-tw.com/)
 
 [Conntek 泉州昆泰芯微 - HALL/磁传感器](https://www.conntek.net/)
 
@@ -163,13 +159,17 @@
 
 [JSMicro 深圳杰盛微 - MOS/二极管/整流桥/可控硅/电源管理/LED驱动/触摸IC](http://www.jsmsemi.com/)
 
-[JIEJIE 江苏捷捷微电 - 二三极管/可控硅](http://www.jjwdz.com/)
+[Jiejie 江苏捷捷微 - 二三极管/可控硅](http://www.jjwdz.com/)
 
 [LRC 乐山无线电 - 二三极管/肖特基](http://www.lrc.cn/)
+
+[Panjit 台湾强茂半导体 - 二三极管/肖特基/TVS/ESD/各类特规产品](http://www.panjit.com.tw/)
 
 [Salltech 上海萨瑞微 - 二三极管/肖特基/TVS/ESD/MOS](http://www.salltech.com/)
 
 [SDC 绍兴光大芯业 - 无刷电机控制器-SDC9316/HALL/磁传感器](http://www.sdc-semi.com/)
+
+[Siptory 深圳中科四合 - 二三极管/肖特基/TVS/ESD](http://www.siptory.com/)
 
 [SMC 南京桑德斯 - 二三极管/肖特基/TVS/ESD](http://www.smc-diodes.com/)
 
@@ -177,19 +177,19 @@
 
 ## 被动类
 
-[国光科技 - 聚合物钽电容](http://www.fjgg.cn/)
-
-[合泰盟方 - 专业提供各类电感](http://www.sz-hotland.com/)
-
-[金籁科技 - 专业提供各类电感](http://www.cqjinlai.com/)
-
-[金瑞电子 - 专业提供自恢复保险丝](http://www.jkpptc.com/)
-
-[泰艺电子 - 专业提供有源晶振](https://www.taitien.com/)
-
-[一晶科技 - 专业提供无源晶振](http://www.acrystals.com/)
+[CACS 浙江一晶科技 - 专业提供无源晶振](http://www.acrystals.com/)
 
 [Chilisin 奇力新 - 电感/磁珠/线圈等](https://www.chilisin.com/zh-CN)
+
+[Guoguang 福建国光新业 - 聚合物钽电容](http://www.fjgg.cn/)
+
+[Hotland 深圳合泰盟方 - 专业提供各类电感](http://www.sz-hotland.com/)
+
+[JinLai 重庆金籁科技 - 专业提供各类电感](http://www.cqjinlai.com/)
+
+[JinRui 深圳金瑞电子 - 专业提供自恢复保险丝](http://www.jkpptc.com/)
+
+[Taitien 台湾泰艺电子 - 专业提供有源晶振](https://www.taitien.com/)
 
 [TXC 台湾晶技 - 晶振](http://www.txccorp.com/)
 
