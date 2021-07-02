@@ -1,9 +1,13 @@
 
 # Local Electronic Component Manufacturer
 
+# 国产元器件厂商录
+
 ## MCU类
 
 [Actions 珠海炬芯 - 蓝牙语音/蓝牙音频/智能音频SoC](https://www.actions-semi.com/)
+
+[Apexmic 珠海艾派克 - 打印机主控SoC](https://www.apexmic.com/)
 
 [Artery 重庆雅特力 - 32位MCU](https://www.arterytek.com/cn/index.jsp)
 
@@ -39,6 +43,10 @@
 
 [Hsxp-hk 深圳航顺 - MCU/EEPROM/触摸Soc/射频Soc/蓝牙Soc](http://www.hsxp-hk.com/)
 
+[IMSEMI 厦门意行半导体 - 24G雷达IC](http://www.imsemi.com/)
+
+[Maxscend 卓胜微 - 蓝牙Soc/射频](https://www.maxscend.com/)
+
 [MindMotion 上海灵动微 - MM32 MCU/SOC&amp;MCU定制](http://www.mindmotion.com.cn/)
 
 [NationalChip 杭州国芯 - 人工智能/语音MCU](http://www.nationalchip.com/)
@@ -58,6 +66,8 @@
 [Vango 杭州万高 - 电表/通用 MCU](http://www.vangotech.com/)
 
 [WCH 南京沁恒 - MCU/蓝牙Soc/串口扩展、转换芯片](http://www.wch.cn/)
+
+[XTX 芯天下 - MCU/Flash存储类](http://www.xtxtech.com/)
 
 [Yspring 深圳汇春 - 触摸IC/台湾麦肯MCU/无线鼠标sensor/手势识别IC](http://www.yspringtech.com/)
 
@@ -79,6 +89,10 @@
 
 [Fortune Advanced 台湾万胜发科技 - Type-c Switch/Load Switch/DC-DC](http://www.fortuneadvanced.com/)
 
+[Gainsil 聚洵半导体 - 电源管理/运放/电子开关IC](http://www.gainsil.com/)
+
+[ISmartWare 珠海智融科技 - 移动电源/快充/无线充](http://www.ismartware.com/)
+
 [Kinetic 台湾芯凯 - Type-c接口保护/背光驱动](http://www.kinet-ic.com/)
 
 [NatLinear 上海南麟 - DC-DC，LDO，MOS](http://www.natlinear.com/)
@@ -86,6 +100,8 @@
 [Potens 台湾博盛 - MOS管](http://www.potens-semi.com/)
 
 [SCT 北京芯洲科技 - DC-DC](http://www.silicontent.com/)
+
+[Silergy 矽力杰 - DC-DC/LDO/功率开关/ESD/电表IC/马达驱动/音频放大/光传感](https://www.silergy.com/)
 
 [TMI 西安拓尔微 - 电源管理/DC-DC/LED驱动/马达驱动IC](http://www.toll-semi.com/)
 
@@ -103,27 +119,49 @@
 
 ## 音频类
 
-[方泰 - 各类音频放大IC---AB类 D类 G类  F类](http://www.fangtek.com.cn/)
+[方泰 - 各类音频放大IC---AB类 D类 G类 F类](http://www.fangtek.com.cn/)
 
 [敏芯微 - 硅麦产品](http://www.memsensing.com/)
 
-[纳芯威 - 各类音频放大IC---AB类 D类 G类  F类](http://www.nsiway.com.cn/)
+[纳芯威 - 各类音频放大IC---AB类 D类 G类 F类](http://www.nsiway.com.cn/)
 
-[顺芯半导体 - Audio Codec、ADC、DAC](http://www.everest-semi.com/)
+[顺芯半导体 - Audio Codec/ADC/DAC](http://www.everest-semi.com/)
+
+[GMEMS - 硅麦](http://www.gmems.com/)
+
+[NeoMEMS 芯奥微 - 硅麦](http://www.neomems.com/)
+
+[TSING MICRO 清微智能 - 语音芯片](http://www.tsingmicro.com/)
 
 ## 接口类
 
-[龙迅半导体 - 专业提供HDMI、DP、eDP、Mipi、LVDS、RGB、BT1120、BT656、Type-C等信号的扩展、转接、点屏产品](http://www.lontiumsemi.com/)
+[龙迅半导体 - HDMI/DP/eDP/Mipi/LVDS/RGB/BT1120/BT656/Type-C等信号的扩展转接](http://www.lontiumsemi.com/)
 
-[瑞发科 - 专业提供PCIE、SATA等转换、扩展产品](http://www.norelsys.com/)
+[瑞发科 - PCIE/SATA等转换/扩展产品](http://www.norelsys.com/)
+
+[Runic 润石科技 - 运放/电子开关IC/电压基准/电源等](http://www.run-ic.com/)
 
 ## 晶体管类
 
-[伯恩半导体 - 二三极管、肖特基、TVS、ESD](http://www.born-tw.com/)
+[伯恩半导体 - 二三极管/肖特基/TVS/ESD](http://www.born-tw.com/)
 
-[强茂半导体 - 二三极管、肖特基、TVS、ESD、各类特规产品](http://www.panjit.com.tw/)
+[强茂半导体 - 二三极管/肖特基/TVS/ESD/各类特规产品](http://www.panjit.com.tw/)
 
-[中科四合 - 二三极管、肖特基、TVS、ESD](http://www.siptory.com/)
+[中科四合 - 二三极管/肖特基/TVS/ESD](http://www.siptory.com/)
+
+[ANGSEMI 上海昂赛微 - HALL/磁传感器/LED闪光驱动](http://www.angsemi.net/)
+
+[Conntek 泉州昆泰芯微 - HALL/磁传感器](https://www.conntek.net/)
+
+[ISOCOM 安数光 - 光耦/光电开关](http://isocom.com/)
+
+[LRC 乐山无线电 - 二三极管/肖特基](http://www.lrc.cn/)
+
+[Salltech 上海萨瑞微 - 二三极管/肖特基/TVS/ESD/MOS](http://www.salltech.com/)
+
+[SMC 南京桑德斯 - 二三极管/肖特基/TVS/ESD](http://www.smc-diodes.com/)
+
+[TopSemi 深圳顶鑫远 - 二三极管/电路保护器件](http://topsemix.com/)
 
 ## 被动类
 
@@ -139,6 +177,10 @@
 
 [一晶科技 - 专业提供无源晶振](http://www.acrystals.com/)
 
+[Chilisin 奇力新 - 电感/磁珠/线圈等](https://www.chilisin.com/zh-CN)
+
+[TXC 台湾晶技 - 晶振](http://www.txccorp.com/)
+
 ## 选型手册
 
 [Chipsea 深圳芯海科技 - 产品选型表](http://www.chipsea.com/UploadFiles/20210518/173735734.pdf)
@@ -148,3 +190,5 @@
 [国光科技 - 聚合物片式叠层铝电解电容器选型表](http://www.fjgg.cn/xxb/PA-Cap%E9%80%89%E5%9E%8B%E8%A1%A8.pdf)
 
 [华大MCU选型表_Rev1.0_202105_下载](https://www.hdsc.com.cn/Public/Uploads/uploadfile/files/20210527/20210527180619_60af6f1ba711b.xlsx)
+
+[Unismart三代APEX芯片目录 20210521](https://www.apexmic.com/uploads/20210525/Unismart_APEX_20210521.xlsx)
