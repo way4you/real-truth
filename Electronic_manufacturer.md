@@ -55,6 +55,8 @@
 
 [Nuvoton 台湾新唐科技 - MCU](https://www.nuvoton.com/)
 
+[SDIC 杭州晶华微 - MCU/数显仪表/红外测温/PIR处理/高精度ADC Soc](http://www.sdicmicro.cn/)
+
 [SineMicro 安徽赛腾微 - MCU/功率器件/模拟器件](http://www.sinemicro.com/)
 
 [Sinomcu 上海晟矽微 - 8位/32位/触控/红外/物联网/RF类 MCU](http://www.sinomcu.com/)
