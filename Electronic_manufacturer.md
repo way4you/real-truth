@@ -63,6 +63,8 @@
 
 [SinOne 深圳赛元微 - 通用MCU/触控MCU](https://www.socmcu.com/)
 
+[SinoMicon 上海中基国威 - 通用MCU/SM、MA、MP、M系列单片机](http://www.sinomicon.cn/)
+
 [SinoWealth 上海中颖电子 - MCU](http://www.sinowealth.com/)
 
 [Vango 杭州万高 - 电表/通用 MCU](http://www.vangotech.com/)
