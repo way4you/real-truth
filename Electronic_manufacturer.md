@@ -13,7 +13,7 @@
 
 [AutiChips 合肥杰发 - AP SOC/蓝牙/Wi-Fi/GNSS](http://www.autochips.com/)
 
-[Belling 上海贝岭 - MCU、DC-DC、LDO、接口、驱动、计量、隔离芯片](https://www.belling.com.cn/)
+[Belling 上海贝岭 - MCU/DC-DC/LDO/接口/驱动/计量/隔离芯片](https://www.belling.com.cn/)
 
 [Betterlife 深圳贝特莱 - 指纹MCU/触摸MCU](http://www.blestech.com/)
 
