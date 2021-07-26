@@ -25,6 +25,8 @@
 
 [CMSemicon 深圳中微半导体 - 混合信号SoC/MCU/功率器件/专用芯片](https://www.mcu.com.cn/)
 
+[Edgeless 珠海零边界 - EIA处理器/32位MCU/功率半导体](http://www.edgeless-tech.com/)
+
 [Espressif 上海乐鑫 - Wi-Fi/蓝牙Soc](https://www.espressif.com/zh-hans)
 
 [Essemi 上海东软载波 - MCU/安全/射频/触控芯片](http://www.essemi.com/index.html)
