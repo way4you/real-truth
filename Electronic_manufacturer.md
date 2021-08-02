@@ -45,6 +45,8 @@
 
 [Hsxp-hk 深圳航顺 - MCU/EEPROM/触摸Soc/射频Soc/蓝牙Soc](http://www.hsxp-hk.com/)
 
+[Hynitron 上海海栎创 - 触控MCU](http://www.hynitron.com/)
+
 [IMSEMI 厦门意行半导体 - 24G雷达IC](http://www.imsemi.com/)
 
 [Maxscend 江苏卓胜微 - 蓝牙Soc/射频](https://www.maxscend.com/)
@@ -143,15 +145,9 @@
 
 [Tsing Micro 北京清微智能 - 语音芯片](http://www.tsingmicro.com/)
 
-## 接口类
+## 晶体管/接口类/传感类
 
-[Lontium 合肥龙迅半导体 - HDMI/DP/eDP/Mipi/LVDS/RGB/BT1120/BT656/Type-C扩展转接](http://www.lontiumsemi.com/)
-
-[Norel 天津瑞发科 - 专业提供PCIE、SATA等转换、扩展产品](http://www.norelsys.com/)
-
-[Vinka 深圳永嘉微电 - LCD驱动/触摸IC/LED驱动/LCD液晶驱动芯片](https://www.szvinka.com/)
-
-## 晶体管/传感类
+[AdSemicon 韩国ADS - 电容触摸/触控IC](http://www.adsemicon.com/)
 
 [AGM-Semi 深圳芯控源 - 大功率MOS/IGBT](http://www.agm-mos.com/)
 
@@ -167,7 +163,13 @@
 
 [Jiejie 江苏捷捷微 - 二三极管/可控硅](http://www.jjwdz.com/)
 
+[Lattice 深圳晶格 - 电容触摸/触控IC](http://www.latticesz.com/)
+
+[Lontium 合肥龙迅半导体 - HDMI/DP/eDP/Mipi/LVDS/RGB/BT1120/BT656/Type-C扩展转接](http://www.lontiumsemi.com/)
+
 [LRC 乐山无线电 - 二三极管/肖特基](http://www.lrc.cn/)
+
+[Norel 天津瑞发科 - 专业提供PCIE、SATA等转换、扩展产品](http://www.norelsys.com/)
 
 [Panjit 台湾强茂半导体 - 二三极管/肖特基/TVS/ESD/各类特规产品](http://www.panjit.com.tw/)
 
@@ -180,6 +182,8 @@
 [SMC 南京桑德斯 - 二三极管/肖特基/TVS/ESD](http://www.smc-diodes.com/)
 
 [TopSemi 深圳顶鑫远 - 二三极管/电路保护器件](http://topsemix.com/)
+
+[Vinka 深圳永嘉微电 - LCD驱动/触摸IC/LED驱动/LCD液晶驱动芯片](https://www.szvinka.com/)
 
 ## 被动类
 
