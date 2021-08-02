@@ -41,6 +41,8 @@
 
 [HDSC 上海华大半导体 - MCU/智能卡/功率器件/ADC&amp;DAC](https://www.hdsc.com.cn/)
 
+[holtek 台湾合泰 - MCU/LCD显示驱动/Motor MCU/触摸触控IC](https://www.holtek.com.cn/)
+
 [Holychi 上海芯圣 - FLASH MCU/家电 MCU/OTP MCU/电源管理](http://www.holychip.cn/)
 
 [Hsxp-hk 深圳航顺 - MCU/EEPROM/触摸Soc/射频Soc/蓝牙Soc](http://www.hsxp-hk.com/)
