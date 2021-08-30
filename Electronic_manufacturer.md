@@ -1,6 +1,7 @@
 
 # Local Electronic Component Manufacturer
 
+
 # 国产元器件厂商录
 
 ## MCU类
@@ -72,6 +73,8 @@
 [SinoMicon 上海中基国威 - 通用MCU/SM、MA、MP、M系列单片机](http://www.sinomicon.cn/)
 
 [SinoWealth 上海中颖电子 - MCU](http://www.sinowealth.com/)
+
+[Solidic 芯易德 - ADC/LCD驱动/LED驱动/MCU/电能计量](http://www.solidic.net/)
 
 [Vango 杭州万高 - 电表/通用 MCU](http://www.vangotech.com/)
 
