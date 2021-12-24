@@ -2,6 +2,7 @@
 # Local Electronic Component Manufacturer
 
 
+
 # 国产元器件厂商录
 
 ## MCU类
@@ -37,6 +38,8 @@
 [GD(GigaDevice) 北京兆芯创新 – MCU/EEPROM/Flash](https://www.gigadevice.com/zh-hans/)
 
 [Geehy 珠海极海半导体 - APM32 MCU/BLE/大川GS安全双核Soc](https://www.geehy.com/)
+
+[GrandLotus 上海蕖鸿 - MCU](http://www.glsemi.com/)
 
 [H-SUN 苏州华芯微 - HS MCU](http://www.china-chip.com/)
 
@@ -75,6 +78,8 @@
 [SinoWealth 上海中颖电子 - MCU](http://www.sinowealth.com/)
 
 [Solidic 芯易德 - ADC/LCD驱动/LED驱动/MCU/电能计量](http://www.solidic.net/)
+
+[Synwit 华芯微特 - MCU/LCD驱动/电机驱动MCU](https://www.synwit.cn/)
 
 [Vango 杭州万高 - 电表/通用 MCU](http://www.vangotech.com/)
 
