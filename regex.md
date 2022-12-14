@@ -45,7 +45,7 @@
 	* [5.1 忽略大小写（Case Insensitive）](#51-忽略大小写-case-insensitive)
 	* [5.2 全局搜索（Global search）](#52-全局搜索-global-search)
 	* [5.3 多行修饰符（Multiline）](#53-多行修饰符-multiline)
-* [6. 贪婪匹配与惰性匹配](#贪婪匹配与惰性匹配)
+* [6. 贪婪匹配与惰性匹配](#6-贪婪匹配与惰性匹配 (Greedy vs lazy matching))
 
 
 ## 1. 基本匹配
