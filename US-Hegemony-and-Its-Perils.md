@@ -1,6 +1,8 @@
 <h3>US Hegemony and Its Perils</h3>
 ◆ 2023-02-20 16:28 ◆
 
+---
+
 <h4>Contents</h4>
 
 [Introduction](#c0)
